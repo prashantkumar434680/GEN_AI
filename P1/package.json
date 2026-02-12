@@ -1,0 +1,19 @@
+{
+  "name": "genai",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "type": "module",
+  "dependencies": {
+    "@google/genai": "^1.40.0",
+    "@huggingface/inference": "^4.13.11",
+    "dotenv": "^17.2.4",
+    "node": "^25.6.0"
+  }
+}
