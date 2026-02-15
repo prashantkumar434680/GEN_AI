@@ -9,11 +9,11 @@
   "author": "",
   "license": "ISC",
   "description": "",
-  "type": "module",
+  "type":"module",
   "dependencies": {
     "@google/genai": "^1.40.0",
-    "@huggingface/inference": "^4.13.11",
     "dotenv": "^17.2.4",
-    "node": "^25.6.0"
+    "node": "^25.6.0",
+    "readline-sync": "^1.4.10"
   }
 }
